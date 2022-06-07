@@ -1,0 +1,7 @@
+D:\Namoro\DiaNamorados\DiaNamorados\obj\Release\net6.0\PubTmp\Out\DiaNamorados.exe
+D:\Namoro\DiaNamorados\DiaNamorados\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Namoro\DiaNamorados\DiaNamorados\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Namoro\DiaNamorados\DiaNamorados\obj\Release\net6.0\PubTmp\Out\DiaNamorados.dll
+D:\Namoro\DiaNamorados\DiaNamorados\obj\Release\net6.0\PubTmp\Out\DiaNamorados.deps.json
+D:\Namoro\DiaNamorados\DiaNamorados\obj\Release\net6.0\PubTmp\Out\DiaNamorados.runtimeconfig.json
+D:\Namoro\DiaNamorados\DiaNamorados\obj\Release\net6.0\PubTmp\Out\DiaNamorados.pdb

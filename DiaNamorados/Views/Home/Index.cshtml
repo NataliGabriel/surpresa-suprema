@@ -9,6 +9,12 @@
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="scripts" href="motivos/motivos.cs">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@800&display=swap" rel="stylesheet">
+
+        
     
     </head>
 <body>
@@ -18,11 +24,11 @@
             <img src="../imgs/ceu.jpg" id="slideImg">
         </div>
         <div class="overlay">
-            <div style="margin-top: 100px;" class="content col-xl-12">
-                <h1>200 Motivos para te Amar</h1>
+            <div style="margin-top: 50px;" class="content col-xl-12">
+                <h1>222 Motivos para te Amar</h1>
                 <form asp-controller="Home" asp-action="Motivos" method="post">
-                    <textarea readonly="readonly" style="margin-top: 10px; font:700;" id="motivo" name="motivo"
-                    rows="10" cols="40">@ViewData["Motivos"]</textarea></br>
+                    <textarea readonly="readonly" style="margin-top: 10px; font:700; color: white; background-color: #a82731; font-family: 'Dosis', sans-serif;"id="motivo" name="motivo"
+                    rows="10" cols="40" align="center">@ViewData["Motivos"]</textarea></br>
                     <button style="margin-top: 10px;" class="botao-brilhante">Sortear</button>
                 </form>
             </div>

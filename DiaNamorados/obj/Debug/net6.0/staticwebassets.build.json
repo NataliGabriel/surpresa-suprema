@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8y2QT+2tuBpOMlcll10M7zh49Lw/diEKVuzv6yj9qLk=",
+  "Hash": "kO1jumSRPGYTmVkaJSi43qdTElXTcQbymvRfZ+ugjzA=",
   "Source": "DiaNamorados",
   "BasePath": "_content/DiaNamorados",
   "Mode": "Default",
@@ -1086,6 +1086,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Namoro\\DiaNamorados\\DiaNamorados\\wwwroot\\music\\SortudoDemais.mp3",
+      "SourceId": "DiaNamorados",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Namoro\\DiaNamorados\\DiaNamorados\\wwwroot\\",
+      "BasePath": "_content/DiaNamorados",
+      "RelativePath": "music/SortudoDemais.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music\\SortudoDemais.mp3"
+    },
+    {
+      "Identity": "D:\\Namoro\\DiaNamorados\\DiaNamorados\\wwwroot\\music\\souSortudo.mp3",
+      "SourceId": "DiaNamorados",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Namoro\\DiaNamorados\\DiaNamorados\\wwwroot\\",
+      "BasePath": "_content/DiaNamorados",
+      "RelativePath": "music/souSortudo.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music\\souSortudo.mp3"
     }
   ]
 }
